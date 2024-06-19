@@ -1,0 +1,13 @@
+# pyobjc
+pandas
+django
+requests
+cryptography
+gunicorn
+# pyescrypt
+Flask==2.3.3
+Flask-API
+Flask-JSON
+waitress
+mysqlclient
+Flask-SQLAlchemy
